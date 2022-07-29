@@ -1,0 +1,95 @@
+body{
+  background-color: #EAF6F6;
+}
+
+hr{
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  height: 0px;
+  width: 5%;
+}
+img{
+  height: 200px;
+  width: auto;
+}
+
+h1{
+  color: #66BFBF;
+  text-align:center;
+}
+
+h3{
+  color: #00A79D;
+  text-align:center;
+}
+
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: red;
+  font-size: 100px;
+}
+
+/*
+img{
+  background-color: red;
+}
+*/
+/**************************************************CLASS SELECTOR******/
+.bacon{
+  background-color: red;
+}
+
+.pizza{
+  background-color: green;
+}
+
+/**************************************************TAG SELECTOR******/
+
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: red;
+  font-size: 100px;
+}
+
+img:hover{
+  background-color: black;
+}
+/*
+img{
+  background-color: red;
+}
+*/
+/**************************************************CLASS SELECTOR******/
+.bacon{
+  background-color: red;
+}
+
+.pizza{
+  background-color: orange;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+/**************************************************ID SELECTOR******/
+
+#heading{
+  color: yellow;
+
+/***********
+
+ID>>Class>>TAG
+
+id single on page
+class can be many
+******/
